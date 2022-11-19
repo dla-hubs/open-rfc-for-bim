@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="main-container">
+	<div class="list-tags-container">
+		<div class="list-tags">
+			{{range .Pages.ByPublishDate}}
+			{{with .Param "tags"}}
+			{{ end }}
+			<a id="tag-in-list" href="{{.RelPermalink}}">
+				#{{.Title}}
+			</a>
+			{{end}}
+		</div>
+	</div>
+</div>
+{{end}}

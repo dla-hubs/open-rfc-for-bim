@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<div class="content-grid">
+	<aside class="article-lhs">
+		<div id="heading"> SECTIONS </div>
+		{{with .Param "sections"}}
+		{{range $index, $section := (. | sort)}}
+		{{with $section}}
+		<a id="section-button" href={{printf "%s%s" "#" (lower $section)}}> {{$section}}</a>
+		{{end}}
+		{{end}}
+		{{end}}
+
+
+		{{$pageNumber := add (div (.Param "seq") 10) 1}}
+		{{$prevPage := printf "%s%s%d%s" .Site.BaseURL "/rfc/page/" $pageNumber
+		"/index.html"}}
+		<a id="close" href={{$prevPage}}> close </a>
+	</aside>
+
+	<aside class=" article-rhs">
+		<div id="heading"> TAGS </div>
+		<div id="tags">
+			{{with .Param "tags"}}
+			{{range $index, $tag := (. | sort)}}
+			{{with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
+			<a id="tag" href="{{ .Permalink }}">#{{ $tag | urlize }}</a>
+			{{ end }}
+			{{ end }}
+			{{ end }}
+			<div id="tag" class="tag-date">
+				{{.Lastmod.Format "January 2006"}}
+				<span class="tooltip-date">The last modified date</span>
+			</div>
+			<div id="tag" class={{cond (eq .Params.closed true) "status-closed" "status-open" }}>
+				{{cond (eq .Params.closed true) "CLOSED" "OPEN" }}
+				<span class="tooltip-status">The status of RFC</span>
+			</div>
+		</div>
+	</aside>
+
+	<div class="article-container">
+
+		<header class="article-header">
+			<div id="number">
+				RFC-{{printf "%03d" .Params.seq}}
+			</div>
+
+
+			<div id="article-title">
+				{{.Title}}
+			</div>
+
+		</header>
+
+		<article class="article-main">
+
+			{{ .Content }}
+		</article>
+		<a href="#article-title">
+			<img src={{"svgs/up-chevron.svg" | relURL}} alt="GitHub" height="28" />
+		</a>
+	</div>
+</div>
+{{ end }}

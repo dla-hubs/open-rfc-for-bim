@@ -1,0 +1,16 @@
+<header class="main-header">
+	<a class="header-title" href="/">
+		Open RFC for BIM
+	</a>
+
+	<div class="header-right">
+		{{partial "search-bar.html" .}}
+
+		<div class="switch-checkbox">
+			<input type="checkbox" checked=" " id="theme-toggle">
+		</div>
+		{{ $jsBundle := resources.Get "js/dark-mode-toggle.js" | resources.Minify}}
+		<script src="{{ $jsBundle.RelPermalink }}"> </script>
+	</div>
+
+</header>

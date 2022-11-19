@@ -1,0 +1,20 @@
+<!doctype html>
+
+<html lang="en">
+{{ partial "head.html" . }}
+
+<body class="grid-container">
+	{{ partial "header.html" . }}
+	<main id="main">
+		<div class="main-container">
+			<div class="main-about">
+				<div class="container">
+					{{ block "main" . }}{{ end }}
+				</div>
+			</div>
+		</div>
+	</main>
+	{{ partial "footer.html" .}}
+</body>
+
+</html>

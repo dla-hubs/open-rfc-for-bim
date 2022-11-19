@@ -1,0 +1,12 @@
+{
+"comments": {
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "dependencies": {
+    "lunr": "^2.3.9"
+  },
+  "name": "rfc-to-autodesk",
+  "version": "0.1.0"
+	
+}

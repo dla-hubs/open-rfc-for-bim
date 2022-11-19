@@ -1,0 +1,42 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Open RFC for BIM'
+
+[menu]
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+[[menu.main]]
+	  name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+
+[[menu.main]]
+    name = "RFC"
+    identifier = "rfc"
+    weight = 300
+    url = "/rfc/" 
+
+[[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 400
+    url = "/tags/"
+
+[taxonomies]
+	tag = "tags"
+
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+
+[outputFormats.SearchIndex]
+baseName = "search"
+mediaType = "application/json"
+
+[outputs]
+home = [ "HTML", "RSS", "SearchIndex" ]

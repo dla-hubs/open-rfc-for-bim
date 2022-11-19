@@ -1,0 +1,12 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+    {{- if gt $index 0 -}} , {{- end -}}
+    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Title -}}
+	  {{- $entry = merge $entry (dict "seq" $page.Params.seq) -}}
+    {{- $entry = merge $entry (dict "summary" $page.Params.summary) -}}
+    {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
+	  {{- $entry = merge $entry (dict "lastmod" $page.Params.lastmod) -}}
+    {{- $entry = merge $entry (dict "closed" $page.Params.closed) -}}
+    {{- $entry | jsonify -}}
+  {{- end -}}
+]

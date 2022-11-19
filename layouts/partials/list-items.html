@@ -1,0 +1,76 @@
+<div class="main-container">
+	<div class="main-list">
+		<div class="list-items" id="heading">
+			<div id="heading">
+				RFC No.
+			</div>
+			<div id="heading">
+				Title
+			</div>
+			<div id="heading">
+				Summary
+			</div>
+			<div id="heading">
+				Tags
+			</div>
+
+		</div>
+		<hr />
+
+
+		{{range (.Paginator.Pages.ByParam "seq")}}
+		<div class="list-items">
+			<a id="number" href="{{.Permalink}}">
+				{{printf "%03d" .Params.seq}}
+			</a>
+			<div id="title">
+				{{.Title}}
+			</div>
+			<div id="summary">
+				{{.Params.summary}}
+			</div>
+			<div id="tags">
+				{{with .Param "tags"}}
+				{{range $index, $tag := (. | sort)}}
+				{{with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
+				<a id="tag" href="{{ .Permalink }}">#{{ $tag | urlize }}</a>
+				{{ end }}
+				{{ end }}
+				{{ end }}
+				<div id="tag" class="tag-date">
+					{{.Lastmod.Format "January 2006"}}
+					<span class="tooltip-date">The last modified date</span>
+				</div>
+
+				<div id="tag" class={{cond (eq .Params.closed true) "status-closed" "status-open" }}>
+					{{cond (eq .Params.closed true) "CLOSED" "OPEN" }}
+					<span class="tooltip-status">The status of RFC</span>
+				</div>
+			</div>
+		</div>
+
+		<hr />
+
+		{{end}}
+
+	</div>
+
+
+
+</div>
+
+<div class="nav-footer" id="bottom">
+
+	{{$prevNumber := sub .Paginator.PageNumber 1}}
+	{{$prevPageHref := print .Page.Permalink "/page/" $prevNumber}}
+	{{$nextNumber := add .Paginator.PageNumber 1}}
+	{{$nextPageHref := print .Page.Permalink "/page/" $nextNumber}}
+
+	<a href={{cond .Paginator.HasPrev $prevPageHref "/" }} class="nav-button">
+		{{cond .Paginator.HasPrev "Prev." "Home"}}
+	</a>
+
+	<a href={{cond .Paginator.HasNext $nextPageHref "" }} class="nav-button">
+		{{cond .Paginator.HasNext "Next" ""}}
+	</a>
+</div>
