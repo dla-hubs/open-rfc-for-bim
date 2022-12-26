@@ -64,7 +64,7 @@ with the proper credit.
 ## Introduction
 
 All new RFCs need to be written using the official template
-[000a-rfc-template.md](https:link-to-git-pageoftemplate).
+[000a-rfc-template.md](https://github.com/dla-hubs/open-rfc-for-bim/blob/main/content/rfc/000a-rfc-template.md).
 
 ## Header
 
@@ -116,4 +116,4 @@ of the RFC.
 ## Stylying
 
 A general example for styling texts can be found in
-[000b-markdown-check.md](/rfc/000b-markdown-check//linktogithubpage...).
+[000b-markdown-check.md](https://github.com/dla-hubs/open-rfc-for-bim/blob/main/content/rfc/000b-markdown-check.md).
