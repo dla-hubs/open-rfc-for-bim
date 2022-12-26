@@ -16,13 +16,13 @@ RFC contents as well as the website itself through the static web generator
 ## What could RFCs be about?
 
 &nbsp; &nbsp; &nbsp; &nbsp; There is no limit to what a topic may be as long as
-it's related to digitial design in AEC insdustry. RFC should be about creating a
-positive improvement to the dightal design tools we use in the industry. For
-instance, it can be about imrpvoring a function of:
+it's related to BIMs in AEC insdustry. RFC should be about creating a positive
+improvement to the dightal design tools we use in the industry. For instance, it
+can be about imrpvoring functionalities of:
 
 - Softwrares
 - Implmentation guidelines/ standards
-- APIs or other frameworks related to the software devs.
+- APIs or other frameworks related to the software devs, etc.
 
 &nbsp;
 
