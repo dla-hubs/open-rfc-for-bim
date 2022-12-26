@@ -39,8 +39,8 @@ and useful for the end users.
 # How to Get Started?
 
 &nbsp; &nbsp; &nbsp; &nbsp; If you are interested in making contributions, have
-a read at [Getting Started](open-rfc-bim.com/getting-started) to start the Open
-RFC journey!
+a read at [Getting Started](https://open-rfc-bim.com/getting-started) to start
+the Open RFC journey!
 
 &nbsp;
 
