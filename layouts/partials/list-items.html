@@ -18,7 +18,7 @@
 		<hr />
 
 
-		{{range (.Paginator.Pages.ByParam "seq")}}
+		{{range where (.Paginator.Pages.ByParam "seq") "Params.seq" "!=" 0}}
 		<div class="list-items">
 			<a id="number" href="{{.Permalink}}">
 				{{printf "%03d" .Params.seq}}
@@ -50,7 +50,6 @@
 		</div>
 
 		<hr />
-
 		{{end}}
 
 	</div>

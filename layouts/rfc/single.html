@@ -4,7 +4,7 @@
 	<aside class="article-lhs">
 		<div id="heading"> SECTIONS </div>
 		{{with .Param "sections"}}
-		{{range $index, $section := (. | sort)}}
+		{{range $index, $section := (. | )}}
 		{{with $section}}
 		<a id="section-button" href={{printf "%s%s" "#" (lower $section)}}> {{$section}}</a>
 		{{end}}
@@ -45,21 +45,19 @@
 			<div id="number">
 				RFC-{{printf "%03d" .Params.seq}}
 			</div>
-
-
 			<div id="article-title">
 				{{.Title}}
 			</div>
-
 		</header>
 
 		<article class="article-main">
-
 			{{ .Content }}
 		</article>
-		<a href="#article-title">
-			<img src={{"svgs/up-chevron.svg" | relURL}} alt="GitHub" height="28" />
+
+		<a id="up-chevron-article" href="#article-title">
+			<img src={{"svgs/up-chevron.svg" | relURL}} alt="up" height="28" />
 		</a>
+
 	</div>
 </div>
 {{ end }}
