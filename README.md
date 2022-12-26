@@ -79,12 +79,14 @@ community include:**
 - Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;
 
 # License
 
 &nbsp; &nbsp; &nbsp; &nbsp; The repository is licensed under
 [Apach License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+&nbsp;
 
 # Contributions
 
