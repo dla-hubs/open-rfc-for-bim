@@ -39,7 +39,8 @@ and useful for the end users.
 # How to Get Started?
 
 &nbsp; &nbsp; &nbsp; &nbsp; If you are interested in making contributions, have
-a read at [Getting Started](/getting-started) to start the Open RFC journey!
+a read at [Getting Started](open-rfc-bim.com/getting-started) to start the Open
+RFC journey!
 
 &nbsp;
 
@@ -80,8 +81,13 @@ community include:**
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-# Copyright
+# License
 
-&nbsp; &nbsp; &nbsp; &nbsp; All the conents of the website is licensed under
-[Creative Commons Attribution
-4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+&nbsp; &nbsp; &nbsp; &nbsp; The repository is licensed under
+[Apach License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+# Contributions
+
+&nbsp; &nbsp; &nbsp; &nbsp; By submitting RFCs or making any contributions to
+the repository, you are deemed to have agreed with the term & conditions
+outlined in the Apach-2.0 license.

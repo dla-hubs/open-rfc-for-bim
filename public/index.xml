@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open RFC for BIM</title>
-    <link>http://example.org/</link>
+    <link>http://open-rfc-bim.com/</link>
     <description>Recent content on Open RFC for BIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://open-rfc-bim.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/rfc/000b-markdown-check/</link>
+      <link>http://open-rfc-bim.com/rfc/000b-markdown-check/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rfc/000b-markdown-check/</guid>
+      <guid>http://open-rfc-bim.com/rfc/000b-markdown-check/</guid>
       <description>Definining Section To define a section:
 # NAME OF SECTION --- Text Styling Italic
 Bold
@@ -24,19 +24,19 @@ Inserting Code { &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;, &amp;#34;l
     
     <item>
       <title>RFC Process</title>
-      <link>http://example.org/rfc/001-rfc-process/</link>
+      <link>http://open-rfc-bim.com/rfc/001-rfc-process/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rfc/001-rfc-process/</guid>
+      <guid>http://open-rfc-bim.com/rfc/001-rfc-process/</guid>
       <description>A general guideline for wiring up new RFC and also sets the process from initiatination to the acceptance of a new RFC on the platform as well as its lifecycle.</description>
     </item>
     
     <item>
       <title>RFC template</title>
-      <link>http://example.org/rfc/000a-rfc-template/</link>
+      <link>http://open-rfc-bim.com/rfc/000a-rfc-template/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rfc/000a-rfc-template/</guid>
+      <guid>http://open-rfc-bim.com/rfc/000a-rfc-template/</guid>
       <description>This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
     </item>
     

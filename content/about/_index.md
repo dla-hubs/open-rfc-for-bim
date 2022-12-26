@@ -84,10 +84,17 @@ community include:**
 - Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;
 
-# Copyright
+# License
 
-&nbsp; &nbsp; &nbsp; &nbsp; All the conents of the website is licensed under
-[Creative Commons Attribution
-4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+&nbsp; &nbsp; &nbsp; &nbsp; The repository is licensed under
+[Apach License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+&nbsp;
+
+# Contributions
+
+&nbsp; &nbsp; &nbsp; &nbsp; By submitting RFCs or making any contributions to
+the repository, you are deemed to have agreed with the term & conditions
+outlined in the Apach-2.0 license.
