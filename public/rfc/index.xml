@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rfc-000 on Open RFC for BIM</title>
+    <title>Rfcs on Open RFC for BIM</title>
     <link>http://example.org/rfc/</link>
-    <description>Recent content in rfc-000 on Open RFC for BIM</description>
+    <description>Recent content in Rfcs on Open RFC for BIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/rfc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/rfc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Affordable licence type for single user and possible free tier</title>
-      <link>http://example.org/rfc/001-affordable-license-type/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://example.org/rfc/000b-markdown-check/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rfc/001-affordable-license-type/</guid>
-      <description>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using.</description>
+      <guid>http://example.org/rfc/000b-markdown-check/</guid>
+      <description>Definining Section To define a section:
+# NAME OF SECTION --- Text Styling Italic
+Bold
+Bold Italic
+The world is flat. We now know that the world is round.
+Number List first nested-1 nested-2 second third Bullet Point Unsorted list nested list-1 nested list-2 bullet Inserting Table Syntax Description Header Title Paragraph Text Inserting Link You can put link like this: link here.
+Inserting Code { &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;, &amp;#34;lastName&amp;#34;: &amp;#34;Smith&amp;#34;, &amp;#34;age&amp;#34;: 25 } </description>
     </item>
     
     <item>
-      <title>Affordable licence type for single user and possible free tier</title>
-      <link>http://example.org/rfc/002-cheaep-license/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <title>RFC Process</title>
+      <link>http://example.org/rfc/001-rfc-process/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rfc/002-cheaep-license/</guid>
-      <description>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using.</description>
+      <guid>http://example.org/rfc/001-rfc-process/</guid>
+      <description>A general guideline for wiring up new RFC and also sets the process from initiatination to the acceptance of a new RFC on the platform as well as its lifecycle.</description>
+    </item>
+    
+    <item>
+      <title>RFC template</title>
+      <link>http://example.org/rfc/000a-rfc-template/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/rfc/000a-rfc-template/</guid>
+      <description>This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
     </item>
     
   </channel>

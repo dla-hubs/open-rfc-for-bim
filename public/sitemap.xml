@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/rfc/001-affordable-license-type/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <loc>http://example.org/rfc/000b-markdown-check/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/rfc/002-cheaep-license/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/licensing/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/general/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/rfc/001-rfc-process/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/rfc/000a-rfc-template/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/rfc/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/usability/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/rfc/empty/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/about/</loc>
+  </url><url>
+    <loc>http://example.org/getting-started/</loc>
   </url><url>
     <loc>http://example.org/search/</loc>
   </url>

@@ -1,13 +1,14 @@
 ---
 seq: 0
-title: Markdown Examples 
-publishDate: 2022-12-05 
-lastmod: 2022-12-05 
+title:
+publishDate: 2022-12-26
+lastmod: 2023-12-26 
 tags: []
 sections: ["Defining Section", "Text Styling", "Number List", "Bullet Point",
 "Inserting Table", "Inserting Link", "Inserting Code"]
-summary: A general refefernce for the markdown notation for all the RFCs on the platform.
-closed: false 
+summary:
+closed: true 
+
 ---
 
 # Definining Section

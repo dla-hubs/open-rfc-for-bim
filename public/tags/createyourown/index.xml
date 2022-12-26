@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>createyourown on Open RFC for BIM</title>
+    <link>http://example.org/tags/createyourown/</link>
+    <description>Recent content in createyourown on Open RFC for BIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/createyourown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RFC template</title>
+      <link>http://example.org/rfc/000a-rfc-template/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/rfc/000a-rfc-template/</guid>
+      <description>This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
+    </item>
+    
+  </channel>
+</rss>
