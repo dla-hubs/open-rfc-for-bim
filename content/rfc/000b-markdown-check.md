@@ -3,7 +3,7 @@ seq: 0
 title:
 publishDate: 2022-12-26
 lastmod: 2023-12-26 
-tags: []
+tags: ["general"]
 sections: ["Defining Section", "Text Styling", "Number List", "Bullet Point",
 "Inserting Table", "Inserting Link", "Inserting Code"]
 summary:
