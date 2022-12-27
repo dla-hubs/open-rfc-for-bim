@@ -152,6 +152,7 @@ body {
 	background-color: var(--bg-color);
   color: var(--primary-color);
   font-family: Nunito;
+	min-height: 100vh;
 	height: 100vh;
 	height: -webkit-fill-available;
 	overflow: hidden;
