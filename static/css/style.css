@@ -152,9 +152,7 @@ body {
 	background-color: var(--bg-color);
   color: var(--primary-color);
   font-family: Nunito;
-	min-height: 100vh;
 	height: 100vh;
-	height: -webkit-fill-available;
 	overflow: hidden;
 }
 
@@ -873,6 +871,11 @@ hr{
 
 
 @media screen and (max-width: 640px) {
+	body{
+		min-height: 100vh;
+		min-height: -webkit-fill-available;
+	}
+
 	main{
 		margin: 0;
 	}
