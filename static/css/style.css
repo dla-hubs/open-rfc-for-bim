@@ -152,7 +152,7 @@ body {
 	background-color: var(--bg-color);
   color: var(--primary-color);
   font-family: Nunito;
-	height: 100vh;
+	height: min(-webkit-fill-available, 100vh);
 	overflow: hidden;
 }
 
@@ -864,9 +864,6 @@ hr{
 		padding: 0;
 		margin-right: calc((100vw - 333px)/4)
 	}
-
-
-
 }
 
 
