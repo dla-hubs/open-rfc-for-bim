@@ -153,7 +153,7 @@ body {
   color: var(--primary-color);
   font-family: Nunito;
 	height: 100vh;
-	max-height: min(-webkit-fill-available, 100vh);
+	min-height: 100vh;
 	overflow: scroll;
 }
 
@@ -870,7 +870,6 @@ hr{
 
 @media screen and (max-width: 640px) {
 	body{
-		min-height: 100vh;
 		min-height: -webkit-fill-available;
 	}
 
@@ -885,7 +884,6 @@ hr{
 			"main"
       "foot";
   }
-
 	.main-header{
 		flex-direction: column;
 		justify-content: space-around;
