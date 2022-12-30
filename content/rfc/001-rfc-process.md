@@ -2,7 +2,7 @@
 seq: 1
 title: RFC Process
 publishDate: 2022-12-26
-lastmod: 2023-12-26 
+lastmod: 2022-12-26 
 tags: ["general"]
 sections: ["Motivation", "Lifecycle", "Review process", "Modification", "Format"]
 summary: A general guideline for wiring up new RFC and also sets the process from initiatination to the acceptance of a new RFC on the platform as well as its lifecycle.

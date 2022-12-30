@@ -2,7 +2,7 @@
 seq: 2
 title: <DRAFT> Freemium pricing model for BIM software license 
 publishDate: 2022-12-30
-lastmod: 2023-12-30 
+lastmod: 2022-12-30 
 tags: ["license", "Autodesk", "Revit","ArchiCAD", "Graphisoft"]
 sections: ["Motivation", "Current", "Proposal"]
 summary: A proposal to introduce a freemium pricing model to the BIM software like modern SAASs to attract wider audiences to not only use the software but also for allowing more software developers to access SDKs more openly. 
