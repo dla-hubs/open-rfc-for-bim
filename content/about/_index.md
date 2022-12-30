@@ -17,28 +17,27 @@ BIM process that works and is fun to work with.
 &nbsp; &nbsp; &nbsp; &nbsp; A BIM standard is usually good at prescribing what
 it should be, but not how it can be applied in practice to do things better than
 before. For instance, BIM as implemented today is seen as nothing more than a
-box-ticking exercise or unnecessary overhead. Perhaphs, what have been
-prescribed are simply not good enough for the evereyda practices. The platform
-challenges to change that by bringing together ideas and proposals that could
-make working with BIM more fun in the form of RFC.
+box-ticking exercise or unnecessary overhead. Perhaps, what has been prescribed
+is simply not good enough for everyday practices. The platform challenges to
+change that by bringing together ideas and proposals that could make working
+with BIM more fun in the form of RFC.
 
 &nbsp;
 
 # Why RFC for BIM?
 
 &nbsp; &nbsp; &nbsp; &nbsp; RFC (Request for Comments) is a process widely used
-in software development to give an opportunity for the user community to comment
-on a new feature before it gets developed and implemented. A RFC doesn't
-necesary have to be written by the software developers themselves but by the
-actual users. Through the RFC process, the software developers can ensure that a
-new feature they work on is something benefitial for the wide part of the user
-community.
+in software development to allow the user community to comment on a new feature
+before it gets developed and implemented. An RFC doesn’t necessarily have to be
+written by the software developers themselves but by the actual users. Through
+the RFC process, the software developers can ensure that a new feature they work
+on is something beneficial for the wide part of the user community.
 
 &nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp; By bring the opinions of the communities togather,
-the platform aims to be a collective opinion leader in making BIM more usable
-and useful for the end users.
+&nbsp; &nbsp; &nbsp; &nbsp; By bringing the opinions of the communities
+together, the platform aims to be a collective opinion leader in making BIM more
+usable and useful for the end users.
 
 &nbsp;
 

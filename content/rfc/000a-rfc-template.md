@@ -4,7 +4,7 @@ title: RFC template
 publishDate: 2022-12-26
 lastmod: 2023-12-26 
 tags: ["general"]
-sections: ["Motivation", "Current", "Proposal", "Workarounds"]
+sections: ["Motivation", "Current", "Proposal"]
 summary: This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!
 closed: false 
 ---
