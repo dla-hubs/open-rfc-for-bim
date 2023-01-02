@@ -13,15 +13,15 @@ closed: false
 
 ---
 
-A guideline for managing all the aspects about RFCs on the platform. Any
-suggestions to change how a RFC process should work should be done via
+A guideline for managing all the aspects of RFCs on the platform. Any
+suggestions to change how the RFC process should work should be done via
 discussion and PR on this RFC.
 
 # Lifecycle
 
 ---
 
-A ideal case for the succeful RFC woud look like:
+An ideal case for a successful RFC would look like this:
 
 1. A submission of RFC draft via PR
 2. An initial review by the maintainer
@@ -30,8 +30,8 @@ A ideal case for the succeful RFC woud look like:
 5. Send PR
 6. Published on Open RFC for BIM.
 
-Initial state for all the RFCs is Open and may become closed in the future when
-the RFC is no longer relevant for one or more of the following reasons.
+The initial state for all the RFCs is Open and may become closed in the future
+when the RFC is no longer relevant for one or more of the following reasons.
 
 - The issue outlined in the RFC has been fixed following the proposed proposal
 - The practice proposed in the RFC has become widely accepted in the industry.
@@ -41,7 +41,7 @@ the RFC is no longer relevant for one or more of the following reasons.
 ---
 
 Currently, the initial review process is done by the maintainer alone as the
-project is still at the very early stage. A meaningful review process shall be
+project is still at a very early stage. A meaningful review process shall be
 developed as the platform grows.
 
 # Modification
@@ -54,8 +54,10 @@ The existing RFC can be modified via PR.
 
 ---
 
-Any software developers are welcomed to adtop and implemnt a RFc on the website
-with the proper credit.
+Since the platform doesn't own or develop any of standards, guidance, or
+software which are subject to the RFCs, it's up to the audiences of the platform
+to decide how to implement or use any of the RFCs on the platform with or
+without the attributions to the platform and the RFC.
 
 # Format
 
@@ -92,7 +94,7 @@ tags: ["createyourown"]
 sections: ["Motivation", "Current", "Proposal", "Workarounds"]
 
 # Brief description of the RFC around 140 words.
-summary: This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!
+summary: This is a minimum template for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!
 closed: false 
 ---
 ```
@@ -109,11 +111,11 @@ The body should consist of clear headers for each sections.
 body text
 ```
 
-Each RFC should consist at least 3 sections: Motivation, Issue, & Proposal as
+Each RFC should consist of at least 3 sections: Motivation, Issue, & Proposal as
 included in the template. Any other sections could be added to suits the needs
 of the RFC.
 
 ## Stylying
 
-A general example for styling texts can be found in
+A general example of styling texts can be found in
 [000b-markdown-check.md](https://github.com/dla-hubs/open-rfc-for-bim/blob/main/content/rfc/000b-markdown-check.md).
