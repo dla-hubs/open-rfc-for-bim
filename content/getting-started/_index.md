@@ -7,9 +7,9 @@ title: About
 # Getting Started
 
 &nbsp; &nbsp; &nbsp; &nbsp; In the simplest term,
-[a public repository on GitHub](https://www.url.com) is used to manage all the
-RFC contents as well as the website itself through the static web generator
-[Hugo](https://gohugo.io).
+[a public repository on GitHub](https://github.com/dla-hubs/open-rfc-for-bim/)
+is used to manage all the RFC contents as well as the website itself through the
+static web generator [Hugo](https://gohugo.io).
 
 &nbsp;
 
@@ -54,19 +54,17 @@ first and reach out to the communities via Discord or GitHub to get help!
 
 &nbsp;
 
-## Before creating an RFC
+## Search on the platform before creating an RFC
 
-&nbsp; &nbsp; &nbsp; &nbsp; Before starting drafting up a new RFC:
+&nbsp; &nbsp; &nbsp; &nbsp; Before starting drafting up a new RFC, please spend
+some time to search if there are already similar RFCs. You could consider
+modifying (pull request) the existing one other than starting from scratch.
 
-- **Search if there is already a similar RFC**\
-  If there are already similar RFCs, you could consider modifying (pull request)
-  the existing one other than starting from scratch. Even if they are not
-  exactly the same and you decide to create a new RFC, it's good to be aware of
-  the similar ones so that you can acknowledge them by adding links in your RFC.
+&nbsp;
 
-- **Reach out to the community and discuss your idea**\
-  This would be a better practice for the community since it would help to
-  develop the RFC ensuring its relevance to the issue it's trying to solve.
+&nbsp; &nbsp; &nbsp; &nbsp; Even if they are not exactly the same and you decide
+to create a new RFC, it's good to be aware of similar ones so that you can
+acknowledge them by adding links in your RFC.
 
 &nbsp;
 

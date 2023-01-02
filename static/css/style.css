@@ -78,8 +78,10 @@ article.article-main>hr{
 }
 
 article.article-main>h2{
+	font-size: 1.25rem;
 	margin-top: 20px;
 	line-height:120%;
+	margin-bottom:1.25rem;
 }
 
 
@@ -406,21 +408,22 @@ main {
 }
 
 .main-about>.container>article>p{
-	font-size: 1rem;
+	font-size: 1.25rem;
 	font-weight: 200;
+	line-height: 1.5;
 }
 
 
 .main-about>.container>article>h1{
 	font-size: 3.5rem;
 	font-weight: 100;
-	margin-bottom: 0.5rem;
+	margin-bottom: 1.0rem;
 }
 
 .main-about>.container>article>h2{
 	font-size: 1.25rem;
 	font-weight: bold;
-	margin-bottom: 0.5rem;
+	margin-bottom: 1.25rem;
 }
 
 .main-about>.container>article>ul{
@@ -729,6 +732,15 @@ hr{
 	grid-area: article;	
 }
 
+.article-content-container{
+	display: flex;
+	justify-content: center;
+}
+
+.article-container>article>hr{
+	margin-bottom: 1.25rem;
+}
+
 .article-header>#article-title{
 	justify-content: center;
 	font-size: 72px;
@@ -924,9 +936,6 @@ hr{
 		font-size: 40px;
 	}
 
-	h1{
-		font-size:30px;
-	}
 
 	.main-about>.container>article>h1{
 		font-size: 1.5rem;
@@ -936,7 +945,7 @@ hr{
 	.main-about>.container>article>h2{
 		font-size: 1.0rem;
 		font-weight: 600;
-		margin-bottom: 0;
+		margin-bottom: 1.0rem;
 	}
 
 	.main-about>.container>article>p{
@@ -985,8 +994,12 @@ hr{
 	font-weight:300;
 	}
 
+	.article-container>article>hr{
+		margin-bottom: 1.00rem;
+	}
+
 	article.article-main>h1{
-		margin-top: 1opx;
+		margin-top: 10px;
 		font-size:1.25rem;
 		font-weight: 600;
 	}
@@ -994,6 +1007,7 @@ hr{
 	article.article-main>h2{
 		font-size:1.00rem;
 		font-weight: 600;
+		margin-bottom: 1.0rem;
 	}
 
 	article.article-main>div.highlight{
@@ -1169,7 +1183,8 @@ hr{
 	}
 
 	.content-grid{
-		grid-template-columns: 1fr 5fr 1fr;
+		max-width: 1024px;
+		grid-template-columns: 1fr 3fr 1fr;
 		grid-template-areas:
 		"lhs article rhs"
 	}
