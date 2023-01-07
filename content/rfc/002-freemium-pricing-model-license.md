@@ -16,7 +16,7 @@ closed: false
 Licenses of BIM software have been often considered expensive, and it often
 raises a bar for companies of different sizes to introduce the BIM process. This
 RFC aims to address that issue by requesting the software companies to introduce
-a freemium pricing model like the modern SAASs to make the BIM software more
+a freemium pricing model like the modern SaaS to make the BIM software more
 accessible.
 
 &nbsp;

@@ -24,20 +24,35 @@ with BIM more fun in the form of RFC.
 
 &nbsp;
 
-# Why RFC for BIM?
+# RFC Process for BIM
 
 &nbsp; &nbsp; &nbsp; &nbsp; RFC (Request for Comments) is a process widely used
 in software development to allow the user community to comment on a new feature
 before it gets developed and implemented. An RFC doesn’t necessarily have to be
-written by the software developers themselves but by the actual users. Through
-the RFC process, the software developers can ensure that a new feature they work
-on is something beneficial for the wide part of the user community.
+written by the software developers themselves but by the actual users to propose
+new features or have a say on how things should work. Through the RFC and
+subsequent comments on the RFC, it creates a process than can ensure a better
+decision-making process for improving software or systems.
 
 &nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp; By bringing the opinions of the communities
-together, the platform aims to be a collective opinion leader in making BIM more
-usable and useful for the end users.
+&nbsp; &nbsp; &nbsp; &nbsp; Traditionally, BIM is defined and developed by the
+standard development organization bodies without much consideration for the
+actual implementations. Such a responsibility of deciding the implementations
+are usually left to big software companies through the development of BIM
+software such as Revit. And, at the practice level, it’s by BIM managers or
+specialists to decide how BIM should be executed. Voices of the end-users are
+clearly overlooked in the current system.
+
+&nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; The goal of this open RFC for BIM project is to not
+dismiss any of that. Rather, it’s all about extending the development of BIM by
+involving more parties like the end-users. By giving an opportunity for them to
+question and comment on how BIM has been setup through the RFCs. And also by
+bringing together the opinions of all the parties, the platform aims to be a
+collective opinion leader in making BIM more useful and usable, which in lots of
+ways is not the case in reality today.
 
 &nbsp;
 
