@@ -41,12 +41,16 @@ and it doesn't provide access to the SDK.
 
 ## The proposed license model
 
+<div style="overflow-x:scroll;">
+
 |                             |    Free     |        Starter        |     Enterprise      |
 | :-------------------------- | :---------: | :-------------------: | :-----------------: |
 | **Price**                   |    Free     |      Affordable       | The current pricing |
 | **Functionality**           | Basic + SDK |      Basic + SDK      |    Full package     |
 | **Cloud-base CDE**          | Unsupported |       Supported       |      Supported      |
 | **Number of Collaborators** |   up to 2   | (more than free tier) |      Unlimited      |
+
+</div>
 
 ## Limitations for Free & Starter
 
