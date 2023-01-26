@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open RFC for BIM</title>
-    <link>http://open-rfc-bim.com/</link>
+    <link>https://open-rfc-bim.com/</link>
     <description>Recent content on Open RFC for BIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://open-rfc-bim.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://open-rfc-bim.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&lt;DRAFT&gt; Freemium pricing model for BIM software license</title>
+      <link>https://open-rfc-bim.com/rfc/002-freemium-pricing-model-license/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/rfc/002-freemium-pricing-model-license/</guid>
+      <description>A proposal to introduce a freemium pricing model to the BIM software like modern SAASs to attract wider audiences to not only use the software but also for allowing more software developers to access SDKs more openly.</description>
+    </item>
+    
     <item>
       <title></title>
-      <link>http://open-rfc-bim.com/rfc/000b-markdown-check/</link>
+      <link>https://open-rfc-bim.com/rfc/000b-markdown-check/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://open-rfc-bim.com/rfc/000b-markdown-check/</guid>
+      <guid>https://open-rfc-bim.com/rfc/000b-markdown-check/</guid>
       <description>Definining Section To define a section:
 # NAME OF SECTION --- Text Styling Italic
 Bold
@@ -23,21 +32,30 @@ Inserting Code { &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;, &amp;#34;l
     </item>
     
     <item>
-      <title>RFC Process</title>
-      <link>http://open-rfc-bim.com/rfc/001-rfc-process/</link>
+      <title>Human friendly naming conventions in BIM</title>
+      <link>https://open-rfc-bim.com/rfc/003-cleaner-naming-for-revit-families/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://open-rfc-bim.com/rfc/001-rfc-process/</guid>
+      <guid>https://open-rfc-bim.com/rfc/003-cleaner-naming-for-revit-families/</guid>
+      <description>This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
+    </item>
+    
+    <item>
+      <title>RFC Process</title>
+      <link>https://open-rfc-bim.com/rfc/001-rfc-process/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/rfc/001-rfc-process/</guid>
       <description>A general guideline for wiring up new RFC and also sets the process from initiatination to the acceptance of a new RFC on the platform as well as its lifecycle.</description>
     </item>
     
     <item>
       <title>RFC template</title>
-      <link>http://open-rfc-bim.com/rfc/000a-rfc-template/</link>
+      <link>https://open-rfc-bim.com/rfc/000a-rfc-template/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://open-rfc-bim.com/rfc/000a-rfc-template/</guid>
-      <description>This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
+      <guid>https://open-rfc-bim.com/rfc/000a-rfc-template/</guid>
+      <description>This is a minimum template for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
     </item>
     
   </channel>

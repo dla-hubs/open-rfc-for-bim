@@ -42,80 +42,82 @@
 	<main id="main">
 		
 
-<div class="content-grid">
-	<aside class="article-lhs">
-		<div id="heading"> SECTIONS </div>
-		
-		
-		
-		<a id="section-button" href=#motivation> Motivation</a>
-		
-		
-		
-		<a id="section-button" href=#lifecycle> Lifecycle</a>
-		
-		
-		
-		<a id="section-button" href=#review%20process> Review process</a>
-		
-		
-		
-		<a id="section-button" href=#modification> Modification</a>
-		
-		
-		
-		<a id="section-button" href=#format> Format</a>
-		
-		
-		
+
+<div class="article-content-container">
+	<div class="content-grid">
+		<aside class="article-lhs">
+			<div id="heading"> SECTIONS </div>
+			
+			
+			
+			<a id="section-button" href=#motivation> Motivation</a>
+			
+			
+			
+			<a id="section-button" href=#lifecycle> Lifecycle</a>
+			
+			
+			
+			<a id="section-button" href=#review%20process> Review process</a>
+			
+			
+			
+			<a id="section-button" href=#modification> Modification</a>
+			
+			
+			
+			<a id="section-button" href=#format> Format</a>
+			
+			
+			
 
 
-		
-		
-		<a id="close" href=http://open-rfc-bim.com//rfc/page/1/index.html> close </a>
-	</aside>
+			
+			
+			<a id="close" href=https://open-rfc-bim.com//rfc/page/1/index.html> close </a>
+		</aside>
 
-	<aside class=" article-rhs">
-		<div id="heading"> TAGS </div>
-		<div id="tags">
-			
-			
-			
-			<a id="tag" href="http://open-rfc-bim.com/tags/general/">#general</a>
-			
-			
-			
-			<div id="tag" class="tag-date">
-				Dec 2023
-				<span class="tooltip-date">The last modified date</span>
+		<aside class=" article-rhs">
+			<div id="heading"> TAGS </div>
+			<div id="tags">
+				
+				
+				
+				<a id="tag" href="https://open-rfc-bim.com/tags/general/">#general</a>
+				
+				
+				
+				<div id="tag" class="tag-date">
+					Dec 2022
+					<span class="tooltip-date">The last modified date</span>
+				</div>
+				<div id="tag" class=status-open>
+					OPEN
+					<span class="tooltip-status">The status of RFC</span>
+				</div>
 			</div>
-			<div id="tag" class=status-open>
-				OPEN
-				<span class="tooltip-status">The status of RFC</span>
-			</div>
-		</div>
-	</aside>
+		</aside>
 
-	<div class="article-container">
+		<div class="article-container">
 
-		<header class="article-header">
-			<div id="number">
-				RFC-001
-			</div>
-			<div id="article-title">
-				RFC Process
-			</div>
-		</header>
+			<header class="article-header">
+				<div id="number">
+					RFC-001
+				</div>
+				<div id="article-title">
+					RFC Process
+				</div>
+			</header>
 
-		<article class="article-main">
-			<h1 id="motivation">Motivation</h1>
+			<article class="article-main">
+				<h1 id="motivation">Motivation</h1>
 <hr>
-<p>A guideline for managing all the aspects about RFCs on the platform. Any
-suggestions to change how a RFC process should work should be done via
+<p>A guideline for managing all the aspects of RFCs on the platform. Any
+suggestions to change how the RFC process should work should be done via
 discussion and PR on this RFC.</p>
 <h1 id="lifecycle">Lifecycle</h1>
 <hr>
-<p>A ideal case for the succeful RFC woud look like:</p>
+<p>An ideal case for a successful RFC would look like this:</p>
 <ol>
 <li>A submission of RFC draft via PR</li>
 <li>An initial review by the maintainer</li>
@@ -124,8 +126,9 @@ discussion and PR on this RFC.</p>
 <li>Send PR</li>
 <li>Published on Open RFC for BIM.</li>
 </ol>
-<p>Initial state for all the RFCs is Open and may become closed in the future when
-the RFC is no longer relevant for one or more of the following reasons.</p>
+<p> </p>
+<p>The initial state for all the RFCs is Open and may become closed in the future
+when the RFC is no longer relevant for one or more of the following reasons.</p>
 <ul>
 <li>The issue outlined in the RFC has been fixed following the proposed proposal</li>
 <li>The practice proposed in the RFC has become widely accepted in the industry.</li>
@@ -133,20 +136,22 @@ the RFC is no longer relevant for one or more of the following reasons.</p>
 <h1 id="review-process">Review process</h1>
 <hr>
 <p>Currently, the initial review process is done by the maintainer alone as the
-project is still at the very early stage. A meaningful review process shall be
+project is still at a very early stage. A meaningful review process shall be
 developed as the platform grows.</p>
 <h1 id="modification">Modification</h1>
 <hr>
 <p>The existing RFC can be modified via PR.</p>
 <h1 id="implmentation">Implmentation</h1>
 <hr>
-<p>Any software developers are welcomed to adtop and implemnt a RFc on the website
-with the proper credit.</p>
+<p>Since the platform doesn&rsquo;t own or develop any of standards, guidance, or
+software which are subject to the RFCs, it&rsquo;s up to the audiences of the platform
+to decide how to implement or use any of the RFCs on the platform with or
+without the attributions to the platform and the RFC.</p>
 <h1 id="format">Format</h1>
 <hr>
 <h2 id="introduction">Introduction</h2>
 <p>All new RFCs need to be written using the official template
-<a href="https:link-to-git-pageoftemplate">000a-rfc-template.md</a>.</p>
+<a href="https://github.com/dla-hubs/open-rfc-for-bim/blob/main/content/rfc/000a-rfc-template.md">000a-rfc-template.md</a>.</p>
 <h2 id="header">Header</h2>
 <p>This is where all the basic info of the RFC goes and it should be filled as per
 the guide below.</p>
@@ -170,7 +175,7 @@ the guide below.</p>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">sections</span>: [<span style="color:#e6db74">&#34;Motivation&#34;</span>, <span style="color:#e6db74">&#34;Current&#34;</span>, <span style="color:#e6db74">&#34;Proposal&#34;</span>, <span style="color:#e6db74">&#34;Workarounds&#34;</span>]
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># Brief description of the RFC around 140 words.</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">summary</span>: <span style="color:#ae81ff">This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">summary</span>: <span style="color:#ae81ff">This is a minimum template for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</span>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">closed</span>: <span style="color:#66d9ef">false</span> 
 </span></span><span style="display:flex;"><span>---
 </span></span></code></pre></div><h2 id="section-and-body">Section and Body</h2>
@@ -180,19 +185,20 @@ the guide below.</p>
 </span></span><span style="display:flex;"><span>---
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>body text
-</span></span></code></pre></div><p>Each RFC should consist at least 3 sections: Motivation, Issue, &amp; Proposal as
+</span></span></code></pre></div><p>Each RFC should consist of at least 3 sections: Motivation, Issue, &amp; Proposal as
 included in the template. Any other sections could be added to suits the needs
 of the RFC.</p>
 <h2 id="stylying">Stylying</h2>
-<p>A general example for styling texts can be found in
-<a href="/rfc/000b-markdown-check//linktogithubpage...">000b-markdown-check.md</a>.</p>
+<p>A general example of styling texts can be found in
+<a href="https://github.com/dla-hubs/open-rfc-for-bim/blob/main/content/rfc/000b-markdown-check.md">000b-markdown-check.md</a>.</p>
 
-		</article>
+			</article>
 
-		<a id="up-chevron-article" href="#article-title">
-			<img src=/svgs/up-chevron.svg alt="up" height="28" />
-		</a>
+			<a id="up-chevron-article" href="#article-title">
+				<img src=/svgs/up-chevron.svg alt="up" height="28" />
+			</a>
 
+		</div>
 	</div>
 </div>
 

@@ -2,31 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://open-rfc-bim.com/rfc/000b-markdown-check/</loc>
+    <loc>https://open-rfc-bim.com/rfc/002-freemium-pricing-model-license/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/archicad/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/autodesk/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/graphisoft/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/license/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/tags/general/</loc>
+    <loc>https://open-rfc-bim.com/tags/revit/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/rfc/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/</loc>
+    <loc>https://open-rfc-bim.com/tags/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/rfc/001-rfc-process/</loc>
+    <loc>https://open-rfc-bim.com/rfc/000b-markdown-check/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/rfc/000a-rfc-template/</loc>
+    <loc>https://open-rfc-bim.com/tags/general/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/rfc/</loc>
+    <loc>https://open-rfc-bim.com/rfc/003-cleaner-naming-for-revit-families/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/tags/</loc>
+    <loc>https://open-rfc-bim.com/rfc/001-rfc-process/</loc>
+    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/rfc/000a-rfc-template/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://open-rfc-bim.com/about/</loc>
+    <loc>https://open-rfc-bim.com/about/</loc>
   </url><url>
-    <loc>http://open-rfc-bim.com/getting-started/</loc>
+    <loc>https://open-rfc-bim.com/getting-started/</loc>
   </url><url>
-    <loc>http://open-rfc-bim.com/search/</loc>
+    <loc>https://open-rfc-bim.com/search/</loc>
   </url>
 </urlset>

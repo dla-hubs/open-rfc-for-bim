@@ -63,6 +63,8 @@ standards, guidance, or software which are subject to the RFCs, it's up to the
 audiences of the platform to decide how to implement or use any of the RFCs on
 the platform with or without the attributions to the platform and the RFC.
 
+&nbsp;
+
 # How to Get Started?
 
 &nbsp; &nbsp; &nbsp; &nbsp; If you are interested in making contributions, have
