@@ -90,9 +90,10 @@ article.article-main>h2{
 
 
 article.article-main>p{
-	padding: 0 10px 0 10px; 
-	margin: 0px 10px 0 10px;
+	padding: 0 10px 0 0px; 
+	margin: 0px 10px 0 0px;
 	font-weight: 300;
+	font-size: 1.25rem;
 	line-height:160%;
 }
 
@@ -114,6 +115,8 @@ article.article-main>div.highlight>pre{
 }
 
 article.article-main>ol{
+	font-size: 1.25rem;
+	font-weight: 300;
 	margin: 0 20px 0 25px;
 	padding: 0 20px 0 25px;
 }
@@ -123,6 +126,8 @@ article.article-main>ol>li> * {
 }
 
 article.article-main>ul{
+	font-size: 1.25rem;
+	font-weight: 300;
 	margin: 0 20px 0 24px;
 	padding: 0 20px 0 24px;
 }
@@ -1000,7 +1005,7 @@ hr{
 	padding: 0 0px 0 0px; 
 	margin: 5px 0px 5px 0px;
 	line-height:160%;
-	font-size: 1.0rem;
+	font-size: 1.25rem;
 	font-weight:300;
 	}
 
@@ -1193,7 +1198,7 @@ hr{
 	}
 
 	.content-grid{
-		max-width: 1024px;
+		max-width: 1400px;
 		grid-template-columns: 1fr 3fr 1fr;
 		grid-template-areas:
 		"lhs article rhs"

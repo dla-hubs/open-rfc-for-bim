@@ -13,7 +13,7 @@ closed: false
 
 ---
 
-Licenses of BIM software have been often considered expensive, and it often
+Costs to purchase licenses of BIM software are often considered expensive and
 raises a bar for companies of different sizes to introduce the BIM process. This
 RFC aims to address that issue by requesting the software companies to introduce
 a freemium pricing model like the modern SaaS to make the BIM software more
@@ -41,7 +41,6 @@ and it doesn't provide access to the SDK.
 
 ## The proposed license model
 
-<div style="overflow-x:scroll;">
 
 |                             |    Free     |        Starter        |     Enterprise      |
 | :-------------------------- | :---------: | :-------------------: | :-----------------: |
@@ -50,10 +49,9 @@ and it doesn't provide access to the SDK.
 | **Cloud-base CDE**          | Unsupported |       Supported       |      Supported      |
 | **Number of Collaborators** |   up to 2   | (more than free tier) |      Unlimited      |
 
-</div>
+&nbsp;
 
 ## Limitations for Free & Starter
-
 To differentiate from the full package, some level of limitations should be
 imposed on the free and starter tiers. Other than limiting modeling
 functionalities, imposing limitations on the scales and complexities of

@@ -30,6 +30,8 @@ An ideal case for a successful RFC would look like this:
 5. Send PR
 6. Published on Open RFC for BIM.
 
+&nbsp;
+
 The initial state for all the RFCs is Open and may become closed in the future
 when the RFC is no longer relevant for one or more of the following reasons.
 
