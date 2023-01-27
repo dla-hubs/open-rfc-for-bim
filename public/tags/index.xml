@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Open RFC for BIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://open-rfc-bim.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://open-rfc-bim.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>convention</title>
+      <link>https://open-rfc-bim.com/tags/convention/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/tags/convention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general</title>
+      <link>https://open-rfc-bim.com/tags/general/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naming</title>
+      <link>https://open-rfc-bim.com/tags/naming/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/tags/naming/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ArchiCAD</title>
       <link>https://open-rfc-bim.com/tags/archicad/</link>
@@ -49,15 +76,6 @@
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://open-rfc-bim.com/tags/revit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>general</title>
-      <link>https://open-rfc-bim.com/tags/general/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-rfc-bim.com/tags/general/</guid>
       <description></description>
     </item>
     

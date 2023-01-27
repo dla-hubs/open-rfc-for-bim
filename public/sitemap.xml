@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://open-rfc-bim.com/rfc/002-freemium-pricing-model-license/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+    <loc>https://open-rfc-bim.com/rfc/003-clean-naming-convention-for-bim-elements/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/convention/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/general/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/naming/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/rfc/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/tags/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://open-rfc-bim.com/tags/archicad/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://open-rfc-bim.com/tags/autodesk/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://open-rfc-bim.com/rfc/002-freemium-pricing-model-license/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://open-rfc-bim.com/tags/graphisoft/</loc>
@@ -17,25 +38,10 @@
     <loc>https://open-rfc-bim.com/tags/license/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-rfc-bim.com/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://open-rfc-bim.com/tags/revit/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://open-rfc-bim.com/rfc/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://open-rfc-bim.com/tags/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://open-rfc-bim.com/rfc/000b-markdown-check/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://open-rfc-bim.com/tags/general/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://open-rfc-bim.com/rfc/003-cleaner-naming-for-revit-families/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://open-rfc-bim.com/rfc/001-rfc-process/</loc>

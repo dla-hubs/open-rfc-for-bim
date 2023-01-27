@@ -420,7 +420,7 @@ main {
 .main-about{
 	text-align: left;
 	justify-content: center;
-	width: 800px;
+	max-width: 800px;
 }
 
 .main-about>.container>article>p{

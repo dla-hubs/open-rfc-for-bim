@@ -6,9 +6,18 @@
     <description>Recent content on Open RFC for BIM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://open-rfc-bim.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://open-rfc-bim.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>&lt;DRAFT&gt; Freemium pricing model for BIM software license</title>
+      <title>Clean naming conveiton for BIM elements</title>
+      <link>https://open-rfc-bim.com/rfc/003-clean-naming-convention-for-bim-elements/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/rfc/003-clean-naming-convention-for-bim-elements/</guid>
+      <description>Generally, the naming convention used in BIM today requires a high cognitive load because of its complexity. The RFC proposes a naming convention that could reduce this cognitive load.</description>
+    </item>
+    
+    <item>
+      <title>Freemium pricing model for BIM software license</title>
       <link>https://open-rfc-bim.com/rfc/002-freemium-pricing-model-license/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -29,15 +38,6 @@ Bold Italic
 The world is flat. We now know that the world is round.
 Number List first nested-1 nested-2 second third Bullet Point Unsorted list nested list-1 nested list-2 bullet Inserting Table Syntax Description Header Title Paragraph Text Inserting Link You can put link like this: link here.
 Inserting Code { &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;, &amp;#34;lastName&amp;#34;: &amp;#34;Smith&amp;#34;, &amp;#34;age&amp;#34;: 25 } </description>
-    </item>
-    
-    <item>
-      <title>Human friendly naming conventions in BIM</title>
-      <link>https://open-rfc-bim.com/rfc/003-cleaner-naming-for-revit-families/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-rfc-bim.com/rfc/003-cleaner-naming-for-revit-families/</guid>
-      <description>This is a minimum tempalte for all new RFCs, duplicate this markdown file (.md) to start writing up your RFC!</description>
     </item>
     
     <item>

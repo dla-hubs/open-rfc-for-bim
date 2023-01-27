@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>naming on Open RFC for BIM</title>
+    <link>https://open-rfc-bim.com/tags/naming/</link>
+    <description>Recent content in naming on Open RFC for BIM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://open-rfc-bim.com/tags/naming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clean naming conveiton for BIM elements</title>
+      <link>https://open-rfc-bim.com/rfc/003-clean-naming-convention-for-bim-elements/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-rfc-bim.com/rfc/003-clean-naming-convention-for-bim-elements/</guid>
+      <description>Generally, the naming convention used in BIM today requires a high cognitive load because of its complexity. The RFC proposes a naming convention that could reduce this cognitive load.</description>
+    </item>
+    
+  </channel>
+</rss>
