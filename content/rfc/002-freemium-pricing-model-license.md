@@ -1,6 +1,6 @@
 ---
 seq: 2
-title: <DRAFT> Freemium pricing model for BIM software license 
+title: Freemium pricing model for BIM software license 
 publishDate: 2022-12-30
 lastmod: 2022-12-30 
 tags: ["license", "Autodesk", "Revit","ArchiCAD", "Graphisoft"]
@@ -41,7 +41,6 @@ and it doesn't provide access to the SDK.
 
 ## The proposed license model
 
-
 |                             |    Free     |        Starter        |     Enterprise      |
 | :-------------------------- | :---------: | :-------------------: | :-----------------: |
 | **Price**                   |    Free     |      Affordable       | The current pricing |
@@ -52,6 +51,7 @@ and it doesn't provide access to the SDK.
 &nbsp;
 
 ## Limitations for Free & Starter
+
 To differentiate from the full package, some level of limitations should be
 imposed on the free and starter tiers. Other than limiting modeling
 functionalities, imposing limitations on the scales and complexities of
