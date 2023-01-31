@@ -298,6 +298,7 @@ body {
 
 .grid-container{
 	display: grid;
+	min-height: 100vh;
 	grid-template-rows: 54px 1fr 30px;
 	grid-template-areas: 
 		"head"
