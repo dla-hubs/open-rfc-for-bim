@@ -1,29 +1,32 @@
-@font-face{
-	font-family: Nunito;
-	src:url(/fonts/Nunito-Regular.ttf);
-}
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap");
 
-@font-face{
-	font-family: Nunito;
-	src:url(/fonts/Nunito-Bold.ttf);
-	font-weight: bold;
-}
-
-@font-face{
-	font-family: Nunito;
-	src:url(/fonts/Nunito-Medium.ttf);
-	font-weight:400;
-}
-
-@font-face{
-	font-family: Nunito;
-	src:url(/fonts/Nunito-Light.ttf);
-	font-weight:200;
-}
-
-@font-face{
-	font-family: Nunito;
-	src:url(/fonts/Nunito-ExtraLight.ttf);
-	font-weight:100;
-}
-
+font-family: 'Nunito', Arial, sans-serif;
+/* @font-face{ */
+/* 	font-family: Nunito; */
+/* 	src:url(/fonts/Nunito-Regular.ttf); */
+/* } */
+/**/
+/* @font-face{ */
+/* 	font-family: Nunito; */
+/* 	src:url(/fonts/Nunito-Bold.ttf); */
+/* 	font-weight: bold; */
+/* } */
+/**/
+/* @font-face{ */
+/* 	font-family: Nunito; */
+/* 	src:url(/fonts/Nunito-Medium.ttf); */
+/* 	font-weight:400; */
+/* } */
+/**/
+/* @font-face{ */
+/* 	font-family: Nunito; */
+/* 	src:url(/fonts/Nunito-Light.ttf); */
+/* 	font-weight:200; */
+/* } */
+/**/
+/* @font-face{ */
+/* 	font-family: Nunito; */
+/* 	src:url(/fonts/Nunito-ExtraLight.ttf); */
+/* 	font-weight:100; */
+/* } */
+/**/
